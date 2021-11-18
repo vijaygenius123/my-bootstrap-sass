@@ -1,0 +1,26 @@
+{
+  "name": "my-bootstrap-sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "css": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijaygenius123/my-bootstrap-sass.git"
+  },
+  "keywords": [],
+  "author": "Vijayaraghavan Sundararaman <vijaygenius123@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vijaygenius123/my-bootstrap-sass/issues"
+  },
+  "homepage": "https://github.com/vijaygenius123/my-bootstrap-sass#readme",
+  "devDependencies": {
+    "gulp": "4.0.2",
+    "gulp-sass": "5.0.0",
+    "sass": "1.43.4"
+  }
+}
