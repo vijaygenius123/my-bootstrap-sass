@@ -7,7 +7,7 @@ function buildStyles(){
         .pipe(dest('css'))
 }
 function watchTask(){
-    watch(['dopi/**/*/.scss'], buildStyles)
+    watch(['dopi/**/*.scss'], buildStyles)
 }
 
 exports.default = series(buildStyles, watchTask)

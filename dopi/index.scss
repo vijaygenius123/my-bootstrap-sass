@@ -1,6 +1,8 @@
 @import 'variables';
 @import "base";
 
+@import "components/card";
+
 h1{
   color: $primary;
   border-bottom: $base-margin;
