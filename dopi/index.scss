@@ -1,7 +1,9 @@
 @import 'variables';
 @import "base";
 @import "colors";
+@import "functions";
 @import "components/card";
+@import "components/button";
 
 h1{
   color: $primary;
